@@ -1,0 +1,66 @@
+body{
+    font-family: calibri;
+}
+.text-home{
+    color: black;
+}
+span{
+    color: #6C63FF;
+    font-size: 16px;
+    font-weight: 600;
+}
+span.icon_ap {
+    background: #6C63FF;
+    position: relative;
+    top: 0px;
+    padding: 5px;
+    border-radius: 4px;
+    margin-left: 5px;
+    float: right;
+    right: 10px;
+    margin-bottom: 15px !important;
+    display: block;
+}
+.header{
+    background-image: url("pics/app4.jpg");
+    height: 500px;
+    padding-top: 10%;
+}
+h1,h6,h5{
+    color: white;
+    text-align: center;
+}
+.forme{
+    background-color: rgb(244, 240, 240);
+    padding: 15px;
+    width: 80%;
+    border-radius: 30px;
+}
+.bsearch{
+    text-align: center;
+    background: #6C63FF;
+    color: white;
+    border-radius: 10px;
+}
+
+.fa{
+    color: white;
+    float: left;
+    text-align: center;
+}
+
+.pic{
+    height: 200px;
+    color:rgb(255, 50, 50);
+}
+.my{
+	width: 100%;
+	padding: 8px;
+	color: #ffffff;
+	background: none #6C63FF;
+	border: none;
+	border-radius: 6px;
+	font-size: 18px;
+	cursor: pointer;
+	margin: 12px 0;
+}
